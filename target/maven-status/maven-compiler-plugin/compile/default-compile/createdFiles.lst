@@ -1,0 +1,10 @@
+com\example\student_record\Component\ConsoleComponent.class
+com\example\student_record\StudentRecordApplication.class
+com\example\student_record\controller\StudentRestController.class
+com\example\student_record\service\JSONDataService.class
+com\example\student_record\model\Student.class
+com\example\student_record\service\GPACalculationsService.class
+com\example\student_record\service\JSONDataService$1.class
+com\example\student_record\model\Course.class
+com\example\student_record\service\CourseService.class
+com\example\student_record\service\StudentService.class
